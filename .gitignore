@@ -1,0 +1,15 @@
+# Created by .ignore support plugin (hsz.mobi)
+test
+/.gopath
+/bin
+
+/build
+/dist
+/pkg
+
+#IDEs
+/.idea
+/.hugo
+/coverage.txt
+/.private
+/loc/themes/
