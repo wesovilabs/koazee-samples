@@ -81,6 +81,8 @@ github.com/wesovilabs/koazee v0.0.2 h1:4+MNj8MJc6DM1DDG8zhoxTsHMaM56eWHfSB86ghc+
 github.com/wesovilabs/koazee v0.0.2/go.mod h1:ENb08mzjzlcADZmHgUCDuL394ExYr+VZX43hqnGgqDU=
 github.com/wesovilabs/koazee v0.0.3-0.20181214153948-225d9b06ed40 h1:ruzPRXO/CGWDbfYMDbgf1SoLZRSfp18dHhwpwTwiU1w=
 github.com/wesovilabs/koazee v0.0.3-0.20181214153948-225d9b06ed40/go.mod h1:aUu3RwlagUNvKgC59fDFcSZ9/c5F/Gf1ePI/xo6poEo=
+github.com/wesovilabs/koazee v0.0.3-0.20181215105327-14cd4f7c4f7f h1:OyJLme3Gehp28KBUuXug56dfeQhS+zTV7qbLWLplQhE=
+github.com/wesovilabs/koazee v0.0.3-0.20181215105327-14cd4f7c4f7f/go.mod h1:aUu3RwlagUNvKgC59fDFcSZ9/c5F/Gf1ePI/xo6poEo=
 golang.org/x/crypto v0.0.0-20180505025534-4ec37c66abab/go.mod h1:6SG95UA2DQfeDnfUPMdvaQW0Q7yPrPDi9nlGo2tz2b4=
 golang.org/x/net v0.0.0-20180906233101-161cd47e91fd/go.mod h1:mL1N/T3taQHkDXs73rZJwtUhF3w3ftmwwsq0BUmARs4=
 golang.org/x/sync v0.0.0-20180314180146-1d60e4601c6f/go.mod h1:RxMgew5VJxzue5/jJTE5uejpjVlOe/izrB70Jof72aM=

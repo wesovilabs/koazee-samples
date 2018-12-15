@@ -38,5 +38,5 @@ stream.Add(10): [1 5 4 3 2 7 1 8 2 3 10]
 stream.Drop(5): [1 4 3 2 7 1 8 2 3]
 stream.DeleteAt(4): [1 5 4 3 7 1 8 2 3]
 stream.Set(0,5): [5 5 4 3 2 7 1 8 2 3]
-stream.Pop(): 5 ... [5 4 3 2 7 1 8 2 3]
+stream.Pop(): 1 ... [5 4 3 2 7 1 8 2 3]
 */
