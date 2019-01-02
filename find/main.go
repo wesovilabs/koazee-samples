@@ -14,6 +14,8 @@ func main() {
 	fmt.Printf("stream.Count(): %d\n", count)
 	index, _ := stream.IndexOf(2)
 	fmt.Printf("stream.IndexOf(2): %d\n", index)
+	indexex, _ := stream.IndexesOf(2)
+	fmt.Printf("stream.IndexesOf(2): %d\n", indexex)
 	index, _ = stream.LastIndexOf(2)
 	fmt.Printf("stream.LastIndexOf(2): %d\n", index)
 	contains, _ := stream.Contains(7)

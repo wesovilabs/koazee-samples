@@ -1,3 +1,3 @@
 module koazee-samples
 
-require github.com/wesovilabs/koazee v0.0.3-0.20181215105327-14cd4f7c4f7f
+require github.com/wesovilabs/koazee v0.0.4-0.20190102062915-a0991f97bbfa
