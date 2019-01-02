@@ -28,6 +28,7 @@ go run main.go
 input: [1 5 4 3 2 7 1 8 2 3]
 stream.Count(): 10
 stream.IndexOf(2): 4
+stream.IndexesOf(2): [4 8]
 stream.LastIndexOf(2): 8
 stream.Contains(7): true
 */
